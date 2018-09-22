@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>520780682</fileChecksum>
+  <configuration>
+    <name>STM3210E debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\..\Libraries\CMSIS\Core\CM3\core_cm3.c</file>
+      <file>$PROJ_DIR$\STM3210E debug\Obj\stm32f10x_adc.o</file>
+      <file>$PROJ_DIR$\..\..\Libraries\CMSIS\Core\CM3\system_stm32f10x.c</file>
+      <file>$PROJ_DIR$\STM3210E debug\Exe\STM3210E-EVAL.out</file>
+      <file>$PROJ_DIR$\..\..\Libraries\CMSIS\Core\CM3\startup\iar\startup_stm32f10x_hd.s</file>
+      <file>$PROJ_DIR$\STM3210E debug\Obj\core_cm3.o</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h</file>
+      <file>$PROJ_DIR$\STM3210E debug\Obj\Project.pbd</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_adc.c</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_fsmc.c</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c</file>
+      <file>$PROJ_DIR$\..\lcd.c</file>
+      <file>$PROJ_DIR$\..\main.c</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_tim.c</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h</file>
+      <file>$TOOLKIT_DIR$\inc\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\..\stm32f10x_conf.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h</file>
+      <file>$PROJ_DIR$\STM3210E debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\STM3210E debug\Obj\lcd.o</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\STM3210E debug\Obj\stm32f10x_fsmc.o</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h</file>
+      <file>$PROJ_DIR$\STM3210E debug\Obj\system_stm32f10x.pbi</file>
+      <file>$PROJ_DIR$\..\lcd.h</file>
+      <file>$TOOLKIT_DIR$\inc\stdint.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\CMSIS\Core\CM3\stm32f10x.h</file>
+      <file>$PROJ_DIR$\STM3210E debug\Obj\core_cm3.pbi</file>
+      <file>$PROJ_DIR$\STM3210E debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Product.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h</file>
+      <file>$PROJ_DIR$\STM3210E debug\Obj\stm32f10x_rcc.pbi</file>
+      <file>$PROJ_DIR$\STM3210E debug\Obj\startup_stm32f10x_hd.o</file>
+      <file>$PROJ_DIR$\STM3210E debug\Obj\stm32f10x_rcc.o</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Config_Full.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h</file>
+      <file>$PROJ_DIR$\STM3210E debug\Obj\stm32f10x_gpio.pbi</file>
+      <file>$PROJ_DIR$\STM3210E debug\Obj\stm32f10x_adc.pbi</file>
+      <file>$PROJ_DIR$\STM3210E debug\Obj\lcd.pbi</file>
+      <file>$PROJ_DIR$\STM3210E debug\Obj\stm32f10x_gpio.o</file>
+      <file>$PROJ_DIR$\STM3210E debug\Obj\stm32f10x_fsmc.pbi</file>
+      <file>$PROJ_DIR$\STM32F10x_FLASH.icf</file>
+      <file>$PROJ_DIR$\STM3210E debug\Obj\system_stm32f10x.o</file>
+      <file>$TOOLKIT_DIR$\inc\ycheck.h</file>
+      <file>$PROJ_DIR$\..\..\Libraries\CMSIS\Core\CM3\core_cm3.h</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tl_in.a</file>
+      <file>$PROJ_DIR$\STM3210E debug\List\STM3210E-EVAL.map</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\inc\ymath.h</file>
+      <file>$TOOLKIT_DIR$\inc\math.h</file>
+      <file>$PROJ_DIR$\STM3210E debug\Obj\stm32f10x_tim.o</file>
+      <file>$PROJ_DIR$\STM3210E debug\Obj\stm32f10x_tim.pbi</file>
+      <file>$PROJ_DIR$\..\..\Libraries\CMSIS\Core\CM3\system_stm32f10x.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 3 52</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Libraries\CMSIS\Core\CM3\core_cm3.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 5</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28 48 16 33 39 34 17 22</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 48 16 33 34 17 22</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Libraries\CMSIS\Core\CM3\system_stm32f10x.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 29 49 28 48 16 33 39 34 17 22 24 58 18 25 32 19 40 6 35</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29 49 28 48 16 33 34 17 22 24 58 18 25 32 19 40 6 35</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\STM3210E debug\Exe\STM3210E-EVAL.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 52</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 46 5 21 20 37 1 23 44 38 56 47 50 53 51</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Libraries\CMSIS\Core\CM3\startup\iar\startup_stm32f10x_hd.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 37</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\STM3210E debug\Obj\Project.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 30 43 31 42 45 41 36 57 26</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_adc.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 25 29 49 28 48 16 33 39 34 17 22 24 58 18 32 19 40 6 35</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25 29 49 28 48 16 33 34 17 22 24 58 18 32 19 40 6 35</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_fsmc.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 40 29 49 28 48 16 33 39 34 17 22 24 58 18 25 32 19 6 35</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40 29 49 28 48 16 33 34 17 22 24 58 18 25 32 19 6 35</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 44</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 6 29 49 28 48 16 33 39 34 17 22 24 58 18 25 32 19 40 35</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6 29 49 28 48 16 33 34 17 22 24 58 18 25 32 19 40 35</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 35 29 49 28 48 16 33 39 34 17 22 24 58 18 25 32 19 40 6</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35 29 49 28 48 16 33 34 17 22 24 58 18 25 32 19 40 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\lcd.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 27 29 49 28 48 16 33 39 34 17 22 24 58 18 25 32 19 40 6 35</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 27 29 49 28 48 16 33 34 17 22 24 58 18 25 32 19 40 6 35</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18 25 29 49 28 48 16 33 39 34 17 22 24 58 32 19 40 6 35 15 27 55 54</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 25 29 49 28 48 16 33 34 17 22 24 58 32 19 40 6 35 15 27 55 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_tim.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 15 29 49 28 48 16 33 39 34 17 22 24 58 18 25 32 19 40 6 35</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15 29 49 28 48 16 33 34 17 22 24 58 18 25 32 19 40 6 35</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+</project>
+
+
